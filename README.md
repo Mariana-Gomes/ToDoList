@@ -4,7 +4,9 @@
 
 ## Qual era o desafio?
 
-Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma](https://www.figma.com/design/gRhyjrJVTMN2e85Axq8iOP/Ignite-Feed-(Community)?node-id=0-1&t=26PueAOtlIhVCSJm-0).
+Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma](https://www.figma.com/design/OpD3uLSAsZOsvSajXtr0D7/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?node-id=0-1&t=cVbHohGIShpHSV5W-0).
+
+
 
 ## O que há no desafio?
 
